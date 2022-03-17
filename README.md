@@ -1,4 +1,6 @@
-<h1><img src="./icons/dark/folder-open.svg#gh-dark-mode-only" width="32" height="32"><img src="./icons/light/folder-open.svg#gh-light-mode-only" width="32" height="32"> minimal-icons</h1>
+<img src="./icons/extension-icon.png" width="128" height="128" align="left">
+
+# minimal-icons
 
 A minimal icon theme for VS Code - all file types share the same minimal file icon.
 
