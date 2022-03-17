@@ -4,6 +4,8 @@
 
 A minimal icon theme for VS Code - all file types share the same minimal file icon.
 
+<img src="./screenshot.jpg" width="1024" align="center">
+
 ## Installation
 
 Install the `jacobwgillespie.minimal-icons` extension from the Marketplace:
