@@ -1,5 +1,3 @@
-<img src="./icons/extension-icon.png" width="128" height="128" align="left">
-
 # minimal-icons
 
 A minimal icon theme for VS Code - all file types share the same minimal file icon.
