@@ -15,7 +15,7 @@
     "url": "https://github.com/jacobwgillespie/vscode-minimal-icons",
     "type": "git"
   },
-  "icon": "./icons/extension-icon.png",
+  "icon": "icons/extension-icon.png",
   "galleryBanner": {
     "color": "#23292e",
     "theme": "dark"
@@ -28,5 +28,8 @@
         "path": "./minimal-icons.json"
       }
     ]
+  },
+  "devDependencies": {
+    "vsce": "^2.7.0"
   }
 }
