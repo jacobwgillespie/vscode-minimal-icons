@@ -2,7 +2,7 @@
 
 A minimal icon theme for VS Code - all file types share the same minimal file icon.
 
-<img src="./screenshot.jpg" width="1024" align="center">
+<img src="./support/screenshot.jpg" width="1024" align="center">
 
 ## Installation
 
