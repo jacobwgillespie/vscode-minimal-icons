@@ -2,7 +2,7 @@
   "name": "minimal-icons",
   "displayName": "Minimal Icons",
   "description": "A minimal icon set based on Feather Icons",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "engines": {
     "vscode": "^1.52.0"
