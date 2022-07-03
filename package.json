@@ -26,6 +26,11 @@
         "id": "minimal-icons",
         "label": "Minimal Icons",
         "path": "./minimal-icons.json"
+      },
+      {
+        "id": "minimal-icons-without-explorer-arrows",
+        "label": "Minimal Icons (without explorer arrors)",
+        "path": "./minimal-icons-without-explorer-arrows.json"
       }
     ]
   },
